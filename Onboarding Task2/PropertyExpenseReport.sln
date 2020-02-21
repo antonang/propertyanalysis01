@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "PropertyExpenseReport", "PropertyExpenseReport\PropertyExpenseReport.rptproj", "{839ECEEC-D754-4603-A1BB-5D5B88775741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.Debug|Default.ActiveCfg = Debug
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.Debug|Default.Build.0 = Debug
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.Debug|Default.Deploy.0 = Debug
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.DebugLocal|Default.Build.0 = DebugLocal
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.Release|Default.ActiveCfg = Release
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.Release|Default.Build.0 = Release
+		{839ECEEC-D754-4603-A1BB-5D5B88775741}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4BD30B-1FDF-4466-8BC1-600BBD921D18}
+	EndGlobalSection
+EndGlobal
